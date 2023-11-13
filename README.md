@@ -55,12 +55,6 @@ This sensor has three pins two of which are power pins leveled VCC and GND and t
 
 ## PROGRAM:
 ~~~
-/*
-Program To Interface the IR sensor module with Arduino UNO controller.
-Developed by: Issac. J
-RegisterNumber:  212220040054
-*/
-
 #define IR_sensor 8
 #define LED 13
 int IR_value;
